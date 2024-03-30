@@ -1,0 +1,5 @@
+- Implemented camera detection functionality to find connected cameras using OpenCV, ensuring compatibility with various hardware configurations.
+- Utilized MediaPipe library to detect and track human pose in real-time, leveraging pre-trained models for accurate landmark detection.
+- Calculated angles between specific body landmarks using geometric principles, facilitating the identification of exercise repetitions and positions.
+- Employed OpenCV for drawing annotations and text overlays on the video feed, providing visual feedback on exercise counts and positions.
+- Optimized frame processing by adjusting camera resolution settings and employing efficient image manipulation techniques for enhanced performance.
